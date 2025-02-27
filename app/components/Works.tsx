@@ -19,7 +19,7 @@ type ProjectCardProps = {
 	image: string;
 	source_code_link?: string;
 	deploy_link: string;
-	platform: "Canva" | "Vercel" | "Figma" | "Github" | "Web"
+	platform: "Canva" | "Vercel" | "Figma" | "Github" | "Web" | " "
 };
 
 const ProjectCard = ({
