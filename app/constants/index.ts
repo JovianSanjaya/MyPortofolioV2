@@ -255,7 +255,7 @@ const achievements :{
 	image: string;
 	source_code_link?: string;
 	deploy_link: string;
-	platform: "Netlify" | "Vercel" | "Figma" | "Wordpress" | "Web" | " "
+	platform: "Canva" | "Vercel" | "Figma" | "Github" | "Web" | " "
 }[] = [
 	{
 		name: "The 5th RoboCup Asia-Pacific Tianjin Invitational Tournament (RCAP-TJI2024) - 1st Prizes Two Categories",
