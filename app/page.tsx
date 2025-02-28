@@ -7,9 +7,9 @@ import {
 	Navbar,
 	Tech,
 	Works,
+	Achievements,
 	StarsCanvas,
 } from "./components";
-import Achievements from "./components/Achievements";
 
 export default function Home() {
 	return (
